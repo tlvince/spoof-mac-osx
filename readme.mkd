@@ -4,7 +4,7 @@ Spoof your MAC address(es).
 
 Forked from [feross/SpoofMAC][], boiled down to the raw shell commands.
 
-[feross/SpoofMAC]: https://github.com/feross/SpoofMAC
+  [feross/SpoofMAC]: https://github.com/feross/SpoofMAC
 
 ## Usage (OS X)
 
@@ -13,11 +13,11 @@ Forked from [feross/SpoofMAC][], boiled down to the raw shell commands.
 
 ## Authors
 
-© 2011-2013 SpoofMAC Contributors <https://github.com/feross/SpoofMAC>
+© 2011-2013 SpoofMAC Contributors <https://github.com/feross/SpoofMAC>  
 © 2013 Tom Vincent <http://tlvince.com/contact>
 
 ## License
 
 Released under the [MIT License][license].
 
-[license]: https://github.com/feross/SpoofMAC#mit-license
+  [license]: https://github.com/feross/SpoofMAC#mit-license
