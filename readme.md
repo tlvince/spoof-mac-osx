@@ -14,7 +14,7 @@ Forked from [feross/SpoofMAC][], boiled down to the raw shell commands.
 ## Authors
 
 © 2011-2013 SpoofMAC Contributors <https://github.com/feross/SpoofMAC>  
-© 2013 Tom Vincent <http://tlvince.com/contact>
+© 2014 Tom Vincent <http://tlvince.com/contact>
 
 ## License
 
